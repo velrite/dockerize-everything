@@ -61,4 +61,3 @@ Every push to main triggers GitHub Actions:
 ## Author
 
 Olamide Olalekan — Platform and DevSecOps Engineer
-[LinkedIn](https://linkedin.com/in/olamide-olalekan-12138a265) | [GitHub](https://github.com/velrite)
